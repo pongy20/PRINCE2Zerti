@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRINCE2 Probeaufgaben</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+    <div class="container">
+        <h1>PRINCE2 Zertifizierung - Probefragen</h1>
+        <p style="font-size: x-small; text-align: center;">Es wird immer eine zufällige Frage aus beiden Katalogen gewählt. Zu welchem Katalog die Frage gehört steht jeweils davor. Nutzen auf eigene Gefahr! Es wurden nicht alle Fragen auf Richtigkeit geprüft.</p>
+        <div id="stats-container">
+            <p id="stats">Richtige Fragen: <span id="correct-count">0</span> / <span id="total-count">0</span> (<span id="percentage">0%</span>)</p>
+        </div>
+        <div id="question-container">
+            <p id="question">Lade Frage...</p>
+            <div class="answers">
+                <button class="answer-button" id="answer-a">A</button>
+                <button class="answer-button" id="answer-b">B</button>
+                <button class="answer-button" id="answer-c">C</button>
+                <button class="answer-button" id="answer-d">D</button>
+            </div>
+            <button id="next-button" style="display: none;">Nächste Frage</button>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

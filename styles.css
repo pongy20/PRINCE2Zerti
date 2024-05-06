@@ -1,0 +1,116 @@
+/* Grundlegende Formatierung des gesamten Körpers */
+/* Grundlegende Formatierung des gesamten Körpers */
+body {
+    font-family: Arial, sans-serif; /* Moderne Schriftart */
+    background-color: #f4f4f4; /* Heller Hintergrund für die Seite */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Zentrieren des Inhalts vertikal */
+}
+
+/* Container für das gesamte Quiz */
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px; /* Abgerundete Ecken */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Schatten für 3D-Effekt */
+    width: 90%;
+    max-width: 800px;
+}
+
+h1 {
+    color: #333; /* Dunkelgrau für Text */
+    text-align: center;
+}
+
+/* Container für die Frage und die Antwort-Buttons */
+#question-container {
+    margin-top: 20px;
+}
+
+#question {
+    background-color: #e9ecef;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 18px; /* Größere Schrift für die Frage */
+    text-align: center;
+}
+
+/* Styling der Antwort-Buttons */
+.answer-button {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    color: white;
+    background-color: #007BFF; /* Blaue Farbe für die Buttons */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; /* Mauszeiger als Hinweis für Klickbarkeit */
+    transition: background-color 0.3s;
+}
+
+.answer-button:hover {
+    background-color: #0056b3; /* Dunklere Farbe beim Darüberfahren */
+}
+
+/* Styling für den 'Nächste Frage'-Button */
+#next-button {
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #f0ad4e; /* Grüne Farbe */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    visibility: hidden; /* Button ist unsichtbar, aber Platz wird reserviert */
+}
+
+#next-button:hover {
+    background-color: #ec971f; /* Dunklere grüne Farbe beim Darüberfahren */
+}
+
+#next-button.visible {
+    visibility: visible; /* Sichtbar machen, wenn benötigt */
+}
+
+.correct {
+    background-color: #5cb85c !important; /* Grün */
+    color: white;
+}
+
+.wrong {
+    background-color: #d9534f !important; /* Rot */
+    color: white;
+}
+
+/* Container für Statistiken */
+#stats-container {
+    background-color: #e9ecef; /* Hintergrundfarbe ähnlich der Fragebox */
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px; /* Abgerundete Ecken */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Leichter Schatten für Tiefe */
+    text-align: center; /* Zentrieren des Textes */
+}
+
+/* Styling für die Statistik-Anzeige */
+#stats {
+    font-size: 16px; /* Lesbare Schriftgröße */
+    color: #333; /* Dunkelgraue Textfarbe für gute Lesbarkeit */
+}
+
+/* Hervorhebung für wichtige Statistik-Werte */
+#correct-count, #total-count, #percentage {
+    font-weight: bold; /* Fettdruck für Werte */
+    color: #0056b3; /* Blaue Farbe, um wichtige Daten hervorzuheben */
+}
+
+.percentage-high {
+    color: #5cb85c !important; /* Grün für hohe Prozentwerte */ 
+}

@@ -1,0 +1,961 @@
+[
+    {
+       "question":"Kat1, F#1: Welche Aussage beschreibt den Projektkontext?",
+       "a":"Er sollte von Stakeholdern verstanden werden, damit die Grundprinzipien angemessen angewendet werden",
+       "b":"Er erklärt, wie jeder Aspekt des Projektmanagements berücksichtigt werden sollte, damit die Prozesse effektiv sind",
+       "c":"Er gibt Orientierung für den Projektverlauf von der Vorprojektaktivität und durch die Phasen des Projektlebenszyklus",
+       "d":"Er stellt ein Verständnis für die Bedürfnisse der Stakeholder und die Beziehungen zwischen ihnen sicher",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#2: Was ist ein Merkmal eines Projekts, das sich vom Business as Usual (BAU) unterscheidet?",
+       "a":"Projekte laufen weiter, nachdem das Business as Usual (BAU) fortgesetzt wird",
+       "b":"Projekte umfassen das laufende Management des Betriebs",
+       "c":"Jedes Projekt wird sich von früheren Projekten unterscheiden",
+       "d":"Projektarbeit ist im Allgemeinen weniger riskant als das Business as Usual (BAU)",
+       "solution":"c"
+    },
+    {
+       "question":"Kat1, F#3: Der Lenkungsausschuss hat beschlossen, das Projekt vorzeitig zu beenden, da sich das externe Umfeld geändert hat. Welches Prinzip wird angewandt?",
+       "a":"Lernen aus Erfahrung",
+       "b":"Anpassen an das Projekt",
+       "c":"Steuern nach dem Ausnahmeprinzip",
+       "d":"Fortlaufende geschäftliche Rechtfertigung sicherstellen",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#4: Welche Aussage über das Prinzip „Definierte Rollen, Verantwortlichkeiten und Beziehungen“ ist RICHTIG?",
+       "a":"Das Projektmanagement-Team sollte ausschließlich aus internen Stakeholdern bestehen",
+       "b":"Die Management-Strukturen für das Tagesgeschäft einer Organisation sind wahrscheinlich geeignet, die Projektarbeit zu steuern",
+       "c":"Im Lenkungsausschuss sollten keine Vertreter externer Lieferanten vertreten sein",
+       "d":"Lieferanten sind Stakeholder, die sich außerhalb des Business befinden können",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#5: Welches Prinzip wird bei der Festlegung von Grenzwerten für die sieben Leistungsaspekte angewandt, damit der Projektmanager effektiv arbeiten kann?",
+       "a":"Steuern nach dem Ausnahmeprinzip",
+       "b":"Lernen aus Erfahrung",
+       "c":"Anpassen an das Projekt",
+       "d":"Rollen und Verantwortlichkeiten definieren und Beziehungen aufbauen",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#6: Was wird durch das Prinzip „Fortlaufende geschäftliche Rechtfertigung sicherstellen“ gefördert?",
+       "a":"Dass das Projekt einen Business-Stakeholder hat, um sicherzustellen, dass die Investition weiterhin gerechtfertigt ist",
+       "b":"Dass das Projekt weiterhin wünschenswert, machbar und erreichbar bleibt, je weiter das Projekt voranschreitet",
+       "c":"Dass die im Rahmen des Projekts gelieferten Produkte die Anforderungen an die Qualität erfüllen",
+       "d":"Dass die Anpassung der PRINCE2-Projektmanagement-Methode dem Umfang der Investition angemessen ist",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#7: Welche Aussage beschreibt, wie die Grundprinzipien ein effektives Projektmanagement unterstützen?",
+       "a":"Sie geben dem Projektteam die Möglichkeit zu entscheiden, wie die Methode auf das Projekt angewendet werden soll",
+       "b":"Sie berücksichtigen die branchenspezifischen Modelle, da PRINCE2 generisch ist",
+       "c":"Sie stützen sich auf ein gemeinsames Vokabular, das wie in PRINCE2 definiert angewendet werden sollte",
+       "d":"Sie sollten bei allen Projekten innerhalb einer Organisation auf die gleiche Weise angewendet werden",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#8: Welche Aussage beschreibt die Leadership eines Projekts?",
+       "a":"Sie geschieht am besten durch Zusammenarbeit innerhalb des Projektökosystems",
+       "b":"Sie ist die Gesamtheit gemeinsamer Einstellungen, Werte und Ziele für das Projekt",
+       "c":"Sie stellt eine Steuerung dar, das angewendet wird, sobald ein bestimmtes Ereignis eintritt",
+       "d":"Sie gibt Anweisungen zur Ausführung von Aufgaben gemäß den vereinbarten Arbeitsweisen.",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#9: Was ist eine Definition von Co-Kreation?",
+       "a":"Zusammenarbeit mit wichtigen Einflussnehmern, um sicherzustellen, dass die vereinbarten Arbeitsweisen von allen Bereichen des Projektökosystems umgesetzt werden",
+       "b":"Änderung eines der genehmigten Managementprodukte, die Teil der Projekt-Baseline sind",
+       "c":"Sicherstellen, dass Entscheidungen, die an den Phasenübergängen getroffen werden, durch die fortlaufende geschäftliche Rechtfertigung informiert werden",
+       "d":"Anwendung von Management-Steuerung, sobald ein bestimmtes Ereignis eintritt",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#10: Welcher Aspekt ist KEIN Aspekt von Leadership?",
+       "a":"Anweisung der Ausführung von Aufgaben im Einklang mit vereinbarten Arbeitsweisen",
+       "b":"Menschen motivieren, um die Ziele eines Projekts zu erreichen",
+       "c":"Überzeugen, Beeinflussen und Co-Kreation mit Stakeholdern",
+       "d":"Regelmäßiges Feedback einholen, um die Ausrichtung auf die Ziele des Projekts beizubehalten",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#11: Welche Aktivität sollte im Rahmen von „Führen über organisatorische Boundaries hinweg“ sorgfältig gemanagt werden, da sie wahrscheinlich von Personen außerhalb des Projektteams durchgeführt wird ?",
+       "a":"Sicherstellung der Finanzierung des Business Case durch die Business-Ebene",
+       "b":"Neue Produkte in alle betroffenen Bereiche des Business integrieren",
+       "c":"Engagement für die Realisierung des Nutzens nach dem Projekt gewinnen",
+       "d":"Lieferung der Produkte gemäß den vereinbarten Qualitätsspezifikationen",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#12: Warum ist Change Management in einem Projekt wichtig?",
+       "a":"Weil die Stakeholder verstehen sollten, welche organisatorischen Bereiche von dem Projekt betroffen sind",
+       "b":"Weil die Projektprodukte beschrieben und einer Änderungssteuerung unterzogen werden sollten",
+       "c":"Weil man darauf vertrauen muss, dass das Projekt seine Ziele im Umfang erreichen kann und weiterhin gerechtfertigt ist",
+       "d":"Weil die Qualitätserwartungen der Benutzer an die Projektprodukte verstanden werden sollten",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#13: Welche Aussage über Fähigkeiten und Kompetenzen in einem Projekt ist RICHTIG?",
+       "a":"Teams sollten aus Mitgliedern mit ähnlichen Fähigkeiten und Kompetenzen bestehen",
+       "b":"Je nach Struktur des Teams werden die Teammitglieder wahrscheinlich unterschiedliche Leistungen erbringen",
+       "c":"Es sollten Standard-Rollen und -Verantwortlichkeiten verwendet werden, die sich an den Bedürfnissen des Projekts orientieren",
+       "d":"Die berufliche Weiterentwicklung von Mitgliedern des Projektteams liegt häufig in der Verantwortung des Projektmanagers",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#14: Was ist eine Beschreibung eines Zwecks des Change-Management-Ansatzes?",
+       "a":"Beschreiben, wie Änderungsvorschläge für die Projekt-Baseline aufgezeichnet und genehmigt werden sollten",
+       "b":"Beschreiben der Standards, die erforderlich sind, um Produkte zu liefern, die den Erwartungen des Benutzers entsprechen",
+       "c":"Definieren, wie das Business in Zukunft arbeiten muss, um die Projektziele zu erreichen",
+       "d":"Beschreiben der Prozesse und Verfahren, die für das Management von Unsicherheiten erforderlich sind",
+       "solution":"c"
+    },
+    {
+       "question":"Kat1, F#15: Ein Projekt veranstaltet einen Workshop, in dem die Mitglieder des Projektteams ihre Erfahrungen mit neuen Arbeitsweisen austauschen.",
+       "a":"Lernen aus Erfahrung",
+       "b":"Steuern nach dem Ausnahmeprinzip",
+       "c":"Definierte Rollen, Verantwortlichkeiten und Beziehungen",
+       "d":"Produktorientierung",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#16: Welches Managementprodukt sollte der Lenkungsausschuss genehmigen, um den Projektumfang und den Zeithorizont festzulegen?",
+       "a":"Projektmandat",
+       "b":"Nutzenmanagement-Ansatz",
+       "c":"Projektleitdokumentation",
+       "d":"Business Case",
+       "solution":"c"
+    },
+    {
+       "question":"Kat1, F#17: Was ist ein Zweck der Practice „Business Case“?",
+       "a":"Den Projektauftraggeber in die Lage versetzen, zu entscheiden, ob das Projekt fortgeführt werden soll",
+       "b":"Identifizieren der Qualitätserwartungen der Benutzer, um den Business-Anforderungen gerecht zu werden",
+       "c":"Vermeiden, dass die geplanten Ergebnisse negative Nebeneffekte für das Business verursachen",
+       "d":"Definieren der Produkte und wie sie geliefert werden, um den Business Case zu erfüllen",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#18: Womit sollte begründet werden, ob das Projekt weitergeführt werden soll?",
+       "a":"Projektkurzbeschreibung und Nutzenmanagement-Ansatz",
+       "b":"Projektstatusbericht und Nutzenmanagement-Ansatz",
+       "c":"Business Case und Projektstatusbericht",
+       "d":"Projektkurzbeschreibung und Business Case",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#19: Identifizieren Sie das fehlende Wort/die fehlenden Wörter im folgenden Satz: Ein Business-Ziel ist das messbare Ergebnis, das Fortschritte in Bezug auf die/den [?] aufzeigen und zu denen das Projekt beitragen sollte.",
+       "a":"Strategie der Organisation",
+       "b":"vom Business gewünschten Ergebnisse",
+       "c":"vom Business gewünschten Nutzen",
+       "d":"geschäftliche Rechtfertigung",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#20: Eine Abteilung der Regierung hat das Ziel, ihren CO2-Fußabdruck um 8-12 % zu reduzieren. Wie sollte diese Anforderung erfasst werden?",
+       "a":"Als eine Nutzentoleranz",
+       "b":"Als eine Nachhaltigkeitstoleranz",
+       "c":"Als zu erreichende Ergebnisse",
+       "d":"Als eine Qualitätstoleranz",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#21: Während einer Phase hat der Projektmanager ein neues Risiko im Risikoregister aufgezeichnet. In welchem Schritt der Technik des Business Case Management sollte seine Auswirkung auf den Business Case bewertet werden?",
+       "a":"Entwickeln",
+       "b":"Prüfen",
+       "c":"Pflegen",
+       "d":"Bestätigen",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#22: Der Projektmanager hat Feedback von Stakeholdern erhalten, das die Notwendigkeit einer Änderung der Struktur des Projektteams identifiziert. Welches Prinzip wird von der Practice „Organisieren“ bei der Umsetzung dieses Feedbacks angewandt?",
+       "a":"Lernen aus Erfahrung",
+       "b":"Definierte Rollen, Verantwortlichkeiten und Beziehungen",
+       "c":"Steuern über Managementphasen",
+       "d":"Anpassen an das Projekt",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#23: Welches Managementprodukt sollte eine individuelle Rechenschaftspflicht für Nachhaltigkeitsziele festlegen?",
+       "a":"Rollenbeschreibungen",
+       "b":"Struktur des Projektmanagement-Teams",
+       "c":"Produktbeschreibung",
+       "d":"Business Case",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#24: Was ist definiert als mit der Befugnis ausgestattet, das Projekt innerhalb des vom Business festgelegten Rahmens zu lenken?",
+       "a":"Projektmanager",
+       "b":"Projektauftraggeber",
+       "c":"Projektmanagement-Team",
+       "d":"Lenkungsausschuss",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#25: Wie sollte der Benutzervertreter seiner Verantwortung für die fortgeführte Realisierung des Nutzens nach dem Projekt gerecht werden?",
+       "a":"Durch Darstellen der erforderlichen Arbeiten in einer Hierarchie, um zu helfen, das Projekt zu organisieren",
+       "b":"Durch Sicherstellung des Engagements der Menschen aus der Benutzer-Community für die Einführung der neuen Produkte",
+       "c":"Durch Definieren, wie die fortgeführte Rechtfertigung des Projekts versichert werden kann",
+       "d":"Durch Sicherstellen der technischen Integrität der an die Benutzer gelieferten Projektprodukte",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#26: Ein neues Teammitglied ist gerade zum Projektteam gestoßen und wird einen Besuch vor Ort durchführen.",
+       "a":"Das Projektökosystem entwickeln",
+       "b":"Das organisatorische Ökosystem verstehen",
+       "c":"Das Projektökosystem designen",
+       "d":"Managen der laufenden Änderungen am Projektökosystem",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#27: Was ist der Zweck der Practice „Pläne“?",
+       "a":"Den Projektmanager in die Lage versetzen, das Projekt zu steuern, indem definiert wird, wer die Produkte liefert und wann sie geliefert werden sollen",
+       "b":"Den Projektauftraggeber in die Lage versetzen, zu überwachen, ob das Projekt wünschenswert, machbar und erreichbar ist und fortgeführt werden soll",
+       "c":"Dem Projektauftraggeber ermöglichen zu definieren, welche Rolle im Projektmanagement-Team für die Erstellung des Plans verantwortlich ist",
+       "d":"Dem Projektmanager ermöglichen zu planen, wie auf Unsicherheiten reagiert werden soll und wer die vereinbarten Antworten umsetzen soll",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#28: Die Geschäftsstrategie hat sich geändert, sodass der Umfang des Projekts über die von der Business-Ebene zugestimmten Toleranzen hinaus erweitert werden muss.",
+       "a":"Projektplan",
+       "b":"Phasenplan",
+       "c":"Teamplan",
+       "d":"Ausnahmeplan",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#29: Identifizieren Sie das fehlende Wort im folgenden Satz: Bei der Planung gibt es mindestens zwei Arten von [?], die für ein Projekt relevant sind: interne und externe.",
+       "a":"Abhängigkeit",
+       "b":"Plan",
+       "c":"Ausnahme",
+       "d":"Umfang",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#30: Wie sollte der Projektplan typischerweise ein iterativ-inkrementelles Projekt berücksichtigen?",
+       "a":"Durch mehrere Lieferphasen, die es ermöglichen, Akzeptanzkriterien während der Auslieferung der Produkte zu verfeinern",
+       "b":"Durch Sicherstellen, dass Produktbeschreibungen abgeschlossen sind, bevor das Projekt vom Lenkungsausschuss genehmigt wird",
+       "c":"Durch die Aufteilung der Arbeit der Phase auf das Detailniveau, das für die tägliche Steuerung durch den Projektmanager erforderlich ist.",
+       "d":"Durch die Aufteilung des Projekts in zwei Phasen, um eine iterative Lieferung von Produkten während des Projekts zu ermöglichen",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#31: Der Projektmanager muss die Qualitätserwartungen der Benutzer erfassen. In welchem Schritt der Planungstechnik sollten die Erwartungen erfasst werden?",
+       "a":"Produkte definieren und analysieren",
+       "b":"Arbeitspakete organisieren",
+       "c":"Schätzungen durchführen",
+       "d":"Einen Zeitplan aufstellen",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#32: Was ist ein Zweck der Practice „Qualität“?",
+       "a":"Ermöglichung der Steuerung durch Definieren, wie das Projekt die Produkte liefern soll, um den Business Case zu erfüllen",
+       "b":"Dokumentieren der Benutzeranforderungen und Sicherstellen, dass sie während des Projekts unverändert bleiben",
+       "c":"Identifizieren, wie das Projekt sicherstellen wird, dass die Benutzeranforderungen an die Projektprodukte erfüllt werden",
+       "d":"Zustimmen zur Lieferung von Produkten, die nicht Teil der geschäftlichen Rechtfertigung des Projekts waren",
+       "solution":"c"
+    },
+    {
+       "question":"Kat1, F#33: Der Teammanager muss aufzeichnen, dass ein Produkt getestet werden muss, aber noch nicht genehmigt wurde. Wo sollten diese Informationen aufgezeichnet werden?",
+       "a":"Qualitätsregister",
+       "b":"Qualitätsspezifikationen",
+       "c":"Produktregister",
+       "d":"Projektproduktbeschreibung",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#34: Durch welche Aussage wird Projektsicherung und nicht Qualitätssicherung beschrieben? Wie sollte das gemanagt werden?",
+       "a":"Sie ist unabhängig vom Projektmanager, allerdings nicht vom Projekt.",
+       "b":"Sie überwacht die Maßnahmen zur Qualitätssteuerung des Projekts, mit denen die Produkte des Projekts bewertet werden",
+       "c":"Sie ist unabhängig vom Projektteam und kann Teil des Qualitätsmanagement-Systems des Benutzers sein",
+       "d":"Sie beschreibt die dokumentierten Erwartungen an die Projektprodukte",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#35: Eine neue Anforderung wird beim Erstellen eines untergeordneten Plans identifiziert.",
+       "a":"Durch die Erstellung neuer Produktbeschreibungen",
+       "b":"Durch Verwendung des Issuemanagement-Ansatzes",
+       "c":"Durch Aktualisieren der Projektproduktbeschreibung",
+       "d":"Durch Aktualisieren des Qualitätsmanagement-Ansatzes",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#36: Ein System wurde getestet und der Benutzer muss die Verantwortung für das System übernehmen. In welchem Schritt der Qualitätsmanagement-Technik sollte dies geschehen?",
+       "a":"Sammeln von Benutzer-Inputs",
+       "b":"Abnehmen von Produkten",
+       "c":"Beschreibung des Qualitätsmanagement-Ansatzes",
+       "d":"Steuerung der Qualität",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#37: Was ist ein Zweck der Practice \"Risiko\"?",
+       "a":"Ausräumen von Bedenken über Standards, die auf Produkte angewendet werden sollen",
+       "b":"Identifizieren der Wahrscheinlichkeit des Auftretens einer Bedrohung und ihrer möglichen A. Auswirkungen auf das Projekt",
+       "c":"Garantieren der Lieferung des vereinbarten Umfangs zur richtigen Zeit, zu den entsprechenden Kosten und der entsprechenden Qualität",
+       "d":"Sicherstellen, dass Probleme gelöst werden, bevor sie die Möglichkeit haben, sich negativ auf das Projekt auszuwirken",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#38: Wo wird dem Projektmanagement-Team eine Leitlinie zur Verfügung gestellt, um Bedrohungen aufzuzeichnen?",
+       "a":"Risikomanagement-Ansatz",
+       "b":"Risikoregister",
+       "c":"Digital- und Datenmanagement-Ansatz",
+       "d":"Arbeitspaketbeschreibung",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#39: Welcher Begriff beschreibt, wer für das zufriedenstellende Reagieren auf ein Risiko verantwortlich ist?",
+       "a":"Risikoeigentümer",
+       "b":"Risikobearbeiter",
+       "c":"Projektunterstützung",
+       "d":"Projektsicherung",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#40: Inwiefern führt die Verlustaversion zu einer weniger effektiven Entscheidungsfindung bei der Berücksichtigung von Risiken?",
+       "a":"Indem man die Bedeutung, das zu behalten, was man hat, höher wertschätzt, als die Bedeutung, etwas Neues zu bekommen",
+       "b":"Indem man das Verlustrisiko vernachlässigt, in dem Glauben, dass alles nach Plan läuft",
+       "c":"Indem man die Einheit des Teams höher bewertet als das Treffen der richtigen Entscheidung",
+       "d":"Indem man Risiken, die mit größerer Wahrscheinlichkeit bald eintreten werden, als riskanter betrachtet",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#41: Der Projektmanager muss die Projektumgebung verstehen und definieren, wie er das Risiko im Projekt managen wird.",
+       "a":"Identifizieren",
+       "b":"Bewerten",
+       "c":"Planen",
+       "d":"Implementieren",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#42: Wie trägt die Practice „Issues“ zu einem erfolgreichen Projekt bei?",
+       "a":"Durch Identifizieren von Ereignissen, die eine positive Auswirkung auf die Projektziele haben könnten",
+       "b":"Durch die Steuerung von Modifikationen an den aktuell genehmigten Versionen der Managementprodukte",
+       "c":"Durch Anpassung des erforderlichen Genehmigungsgrads an die Erwartungen des Benutzers",
+       "d":"Dadurch, dass sie die unsichere Situation durch die Beseitigung ihrer Ursache zu einer sicheren macht",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#43: Die Projektunterstützung muss verstehen, wie man Änderungen an genehmigten Versionen der Projektprodukte vornimmt.",
+       "a":"Issuemanagement-Ansatz",
+       "b":"Risikomanagement-Ansatz",
+       "c":"Nutzenmanagement-Ansatz",
+       "d":"Qualitätsmanagement-Ansatz",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#44: Was ist die Definition eines Issues?",
+       "a":"Ein Ereignis, das für das Projekt relevant ist und eine Berücksichtigung des Projektmanagements erfordert",
+       "b":"Ein unsicheres Ereignis, dessen Eintreten Auswirkungen auf das Projekt hat",
+       "c":"Eine Beschreibung der Auswirkungen, die ein unsicheres Ereignis auf die Ziele haben würde",
+       "d":"Ein messbarer Schwellenwert, der den tolerierbaren Bereich der Ergebnisse für jedes betroffene Ziel darstellt",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#45: Eine Änderung wurde genehmigt und muss nun implementiert werden. Welcher Teil der Leitlinie für effektives Issuemanagement sollte es ermöglichen, die Änderung zu implementieren?",
+       "a":"Die Delegation der Befugnis durch den Lenkungsausschuss, über Änderungen auf der geeigneten Ebene zu entscheiden",
+       "b":"Die Anwendung des Änderungsbudgets im Rahmen der genehmigten Einschränkungen, um Kompromisse einzugehen",
+       "c":"Das Audit, ob der tatsächliche Produktstatus mit dem im Produktregister aufgezeichneten Status übereinstimmt",
+       "d":"Die Definition einer geeigneten Detailebene, für die Produkt-Baselines erstellt werden sollen",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#46: Ein Issue wurde identifiziert und seine Auswirkung auf den Projektumfang muss verstanden werden. In welchem Schritt der Technik des Issuemanagements sollte die Auswirkung verstanden werden?",
+       "a":"Bewerten von Issues",
+       "b":"Erfassen von Issues",
+       "c":"Entscheidung über Änderungen",
+       "d":"Implementieren von Änderungen",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#47: Was ist der Zweck der Practice „Fortschritt“?",
+       "a":"Prognose, ob die Phase auf Kurs ist, um rechtzeitig und innerhalb des Budgets zu liefern",
+       "b":"Erfassen von Informationen, die ermöglichen, dass Fehler der Vergangenheit bei diesem Projekt oder anderen Projekten vermieden werden",
+       "c":"Entscheidung, was mit einem Produkt zu tun ist, das die Qualitätsspezifikationen nicht erfüllt",
+       "d":"Sicherstellen, dass die Qualitätserwartungen der Benutzer bei der Lieferung der Produkte erfüllt werden",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#48: Was sollte vom Lenkungsausschuss überprüft werden, wenn er über das weitere Vorgehen im Projekt entscheidet?",
+       "a":"Digital- und Datenmanagement-Ansatz",
+       "b":"Phasenabschlussbericht",
+       "c":"Projektstatusbericht",
+       "d":"Teamstatusbericht",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#49: Was ist die Definition einer Ausnahme?",
+       "a":"Eine Prognose einer Abweichung, die über die vereinbarten Toleranzen hinausgeht",
+       "b":"Ein unsicheres Ereignis, dessen Eintreten Auswirkungen auf die Erzielung der Ziele hat",
+       "c":"Ein Produkt, das seine Qualitätsspezifikationen nicht erfüllt",
+       "d":"Ein Bericht an den Projektmanager über den Status des Arbeitspakets",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#50: Wie sollte die Nutzung von Daten und Systemen ein effektives Fortschrittsmanagement unterstützen?",
+       "a":"Durch die Konzentration der Bemühungen des Projektmanagement-Teams, Daten darüber zu sammeln, was in der Vergangenheit passiert ist",
+       "b":"Durch Bereitstellen von genauen Daten, die bei der Vorhersage zukünftiger Projektleistung helfen",
+       "c":"Durch die Konzentration der Bemühungen des Projektmanagement-Teams auf die manuelle Datenerfassung",
+       "d":"Durch Definieren der Toleranzen gegenüber den sieben Leistungszielen für jede Managementebene",
+       "solution":"b"
+    },
+    {
+       "question":"Kat1, F#51: Auf welchen Ebenen sind Projekte nach der Technik „Ausnahmemanagement“ AM EHESTEN in der Lage, Issues zu identifizieren, die die Toleranzen einer Phase überschreiten?",
+       "a":"Beauftragen UND Lenken",
+       "b":"Lenken UND Managen",
+       "c":"Lenken UND Liefern",
+       "d":"Managen UND Liefern",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#52: Was ist ein Zweck des Prozesses „Vorbereiten eines Projekts“?",
+       "a":"Bewerten, ob ein Projekt für die Organisation von Nutzen sein kann",
+       "b":"Den Arbeitsaufwand analysieren, bevor eine Verpflichtung zur Implementierung der Projektleitdokumentation eingegangen wird",
+       "c":"Die Chance bereitstellen, damit Benutzer bestätigen können, dass sie das Projektprodukt abnehmen",
+       "d":"Delegieren des kontrollierten Managements des Projekts",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#53: Welcher Prozess sollte sicherstellen, dass eine Organisation nicht dazu übergeht, solide Grundlagen für ungeeignete Projekte zu etablieren?",
+       "a":"Vorbereiten eines Projekts",
+       "b":"Lenken eines Projekts",
+       "c":"Initiieren eines Projekts",
+       "d":"Managen eines Phasenübergangs",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#54: Was ist ein Zweck des Prozesses „Lenken eines Projekts“?",
+       "a":"Die Rechenschaftspflicht des Lenkungsausschusses beizubehalten und gleichzeitig die detaillierte Management-Arbeit zu delegieren",
+       "b":"Verhindern, dass Projekte mit unzureichender Rechtfertigung von der Organisation durchgeführt werden",
+       "c":"Die Arbeit einer Phase durch Implementieren effektiver Korrekturmaßnahmen managen",
+       "d":"Informationen bereitstellen, damit sich die beauftragende Stelle zur Lieferung des Projekts verpflichten kann",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#55: Was sind ZWEI Ziele des Prozesses „Steuern einer Phase“? 1. Sicherstellen, dass es keine unkontrollierten Änderungen an den mit dem Lenkungsausschuss vereinbarten Produkten gibt 2. Sicherstellen, dass gegenüber dem Lenkungsausschuss gewährleistet ist, dass alle Produkte im aktuellen Phasenplan abgeschlossen wurden  3. Sicherstellen, dass die Projektleitdokumentation mit allen für die nächste Phase erforderlichen Qualitätsänderungen aktualisiert wird  ",
+       "a":"1 und 2",
+       "b":"2 und 3",
+       "c":"3 und 4",
+       "d":"1 und 4",
+       "solution":"d"
+    },
+    {
+       "question":"Kat1, F#56: Welche ZWEI Ziele verfolgt der Prozess „Lenken eines Projekts“?  1. Sicherstellen, dass das Projekt nur bei ordnungsgemäßer Freigabe abgeschlossen wird 2. Sicherstellen, dass Überprüfungen des Projektnutzens nach dem Projekt geplant sind  3. Sicherstellen, dass das Business bereit ist, die Produkte nach Abschluss des Projekts zu nutzen  4. Sicherstellen, dass die Benutzer das Projektprodukt abgenommen haben",
+       "a":"1 und 2",
+       "b":"2 und 3",
+       "c":"3 und 4",
+       "d":"1 und 4",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#57: Welche ZWEI Ziele verfolgt der Prozess „Initiieren eines Projekts“?  1. Sicherstellen, dass sich das Projektteam auf die Lieferung der genehmigten Produkte im Phasenplan konzentriert  2. Sicherstellen, dass das Projektteam befugt ist, mit der Initiierungsphase fortzufahren.  3. Verstehen, wie Änderungen an den vereinbarten Projektprodukten genehmigt werden  4. Die Kosten für die Arbeiten zur Lieferung der Produkte planen und schätzen",
+       "a":"1 und 2",
+       "b":"2 und 3",
+       "c":"3 und 4",
+       "d":"1 und 4",
+       "solution":"c"
+    },
+    {
+       "question":"Kat1, F#58: Welche Aktivität wird NUR im Prozess „Managen eines Phasenübergangs“ durchgeführt?",
+       "a":"Vorbereiten eines Ersatzes für den aktuellen Phasenplan zur Genehmigung durch den Lenkungsausschuss",
+       "b":"Fortlaufende Überprüfung der geschäftlichen Rechtfertigung anhand des Business Case",
+       "c":"Regelmäßige Berichterstattung an den Lenkungsausschuss über den Fortschritt einer Phase",
+       "d":"Vorbereiten des Projektes auf einen vorzeitigen Abschluss gemäß der Anweisung des Lenkungsausschusses",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#59: Was wird benötigt, um den Prozess „Managen eines Phasenübergangs“ durchzuführen?",
+       "a":"Die Arbeit des Projekts muss in Abschnitte unterteilt werden",
+       "b":"Jede Phase muss Projektnutzen inkrementell liefern",
+       "c":"Das Projekt muss ein verlässliches Enddatum haben",
+       "d":"Jede Phase muss sich in einer Ausnahme befinden",
+       "solution":"a"
+    },
+    {
+       "question":"Kat1, F#60: Welche Maßnahme ist zu ergreifen, wenn ein Projekt vorzeitig abgeschlossen wird?",
+       "a":"Der Projektmanager sollte den Prozess „Abschließen eines Projekts“ weiter nutzen, um mit der Situation umzugehen",
+       "b":"Der Projektmanager sollte sicherstellen, dass vor dem Abschließen eines Projekts keine zusätzlichen Arbeiten durchgeführt werden",
+       "c":"Der Projektmanager sollte einen vorzeitigen Abschluss auslösen, wenn der Business Case nicht mehr gültig ist",
+       "d":"Der Lenkungsausschuss sollte die Verwendung des verbleibenden Projektbudgets zur Finanzierung der betrieblichen Kosten genehmigen",
+       "solution":"a"
+    },
+    {
+        "question":"Kat2, F#1: Was ist ein Lieferansatz, der so definiert ist, dass der nächste Lieferschritt erst dann beginnt, wenn der vorherige Schritt abgeschlossen ist und das Produkt am Ende des Projekts zur Verfügung steht?",
+        "a":"Linear-sequenziell",
+        "b":"Hybrid",
+        "c":"Iterativ-inkrementell",
+        "d":"Ereignisgesteuert",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#2: Welches Merkmal eines Projekts bezieht sich auf die Zusammenarbeit von Teams aus verschiedenen Organisationen?",
+        "a":"Bereichsübergreifend",
+        "b":"Einzigartig",
+        "c":"Befristet",
+        "d":"Änderung",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#3: Welches Prinzip wird bei der Überprüfung angewendet, ob das Projekt wertvolle Produkte liefern wird?",
+        "a":"Fortlaufende geschäftliche Rechtfertigung sicherstellen",
+        "b":"Lernen aus Erfahrung",
+        "c":"Steuern nach dem Ausnahmeprinzip",
+        "d":"Anpassen an das Projekt",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#4: Ein externes IT-Unternehmen wird beauftragt, im Rahmen eines Projekts ein neues Buchhaltungssystem zu liefern. Welches Prinzip wird bei der Vereinbarung des Vertrags mit dem IT-Unternehmen angewendet?",
+        "a":"Definierte Rollen, Verantwortlichkeiten und Beziehungen",
+        "b":"Steuern über Managementphasen",
+        "c":"Steuern nach dem Ausnahmeprinzip",
+        "d":"Anpassen an das Projekt",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#5: Was ermöglicht das Prinzip des „Steuern nach dem Ausnahmeprinzip“?",
+        "a":"Dass Entscheidungen von den richtigen Personen zur richtigen Zeit getroffen werden",
+        "b":"Dass das Projekt den vom Business geforderten Nutzen liefert",
+        "c":"Dass die Mitglieder des Projektteams ihren Beitrag zum Projekt verstehen",
+        "d":"Dass das Projektteam den Umfang definiert, den das Projekt liefern soll",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#6: Der Projektmanager hat mit dem Teammanager vereinbart, dass ein Arbeitspaket bis zu 1 Woche später als im Teamplan vorgesehen geliefert werden kann.",
+        "a":"Lernen aus Erfahrung",
+        "b":"Definierte Rollen, Verantwortlichkeiten und Beziehungen",
+        "c":"Steuern nach dem Ausnahmeprinzip",
+        "d":"Produktorientierung",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#7: Der Projektmanager hat empfohlen, einige Managementprodukte für das Projekt zu kombinieren. In welchem Managementprodukt sollte dies dokumentiert werden?",
+        "a":"Projektplan",
+        "b":"Projektleitdokumentation",
+        "c":"Phasenplan",
+        "d":"Business Case",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#8: Was ist eine Definition von Leadership?",
+        "a":"Menschen durch Überzeugung, Einbeziehung und Co-Kreierung motivieren",
+        "b":"Sicherstellen, dass das Projekt ordnungsgemäß initiiert wird, bevor mit der Lieferung begonnen wird",
+        "c":"Governance ermöglichen durch Delegieren der Befugnis von einer Management-Ebene zur nächsten",
+        "d":"Gewährleistung der Ausrichtung des Projekts auf den vom Business angestrebten Nutzen",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#9: Welcher Begriff wird definiert als der Prozess, bei dem Menschen zusammenarbeiten, um die Ziele des Projekts zu erreichen?",
+        "a":"Zusammenarbeit",
+        "b":"Pläne",
+        "c":"Änderung",
+        "d":"Co-Kreation",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#10: Was ist die Definition eines Stakeholders?",
+        "a":"Eine Person, die das Projekt beeinflussen kann",
+        "b":"Jemand, der Eigentümer einer Handlung zur Minderung einer Unsicherheit ist",
+        "c":"Jeder, der für die übergreifende Lenkung des Projekts verantwortlich ist",
+        "d":"Eine unabhängige Person, die bewertet, ob ein Produkt seine Qualitätskriterien erfüllt",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#11: Welche Aktivität sollte im Rahmen von \"Führen über organisatorische Boundaries hinweg\" sorgfältig gesteuert werden, da sie von Personen durchgeführt werden kann, die außerhalb des Projektteams sind?",
+        "a":"Lieferung der Produkte gemäß den vereinbarten Qualitätsspezifikationen",
+        "b":"Neue Produkte in alle betroffenen Bereiche des Business integrieren",
+        "c":"Engagement für die Realisierung des Nutzens nach dem Projekt gewinnen",
+        "d":"Sicherstellung der Finanzierung des Business Case durch die Business-Ebene",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#12: Welche Aussage über effektive Einbeziehung von Stakeholdern innerhalb eines Projekts ist RICHTIG?",
+        "a":"Wichtige Einflussnehmer sind in der Regel leitende Angestellte und nicht diejenigen, die betriebliche Aufgaben übernehmen",
+        "b":"Die wichtigen Einflussnehmer mit dem größten Einfluss bleiben während der Laufzeit des Projekts dieselben",
+        "c":"Die meiste Kommunikation mit wichtigen Einflussnehmern sollte über formelle Kommunikationswege erfolgen",
+        "d":"Das Projektmanagement-Team sollte wichtige Einflussnehmer stark einbeziehen, um den Projekterfolg sicherzustellen",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#13: Was wird bei der Bildung eines effektiven Projektteams AM WAHRSCHEINLICHSTEN beachtet?",
+        "a":"Ob Teammitglieder eine Schulung benötigen, um ihre Kompetenzen und Kompetenzen zu verbessern",
+        "b":"Sicherstellen, dass der Projektmanager den Teammitgliedern übergeordnet ist",
+        "c":"Ob sich der Kommunikationsmanagement-Ansatz während der Laufzeit des Projekts wahrscheinlich weiterentwickeln wird",
+        "d":"Sicherstellen, dass jedes Teammitglied vom Projektmanager handverlesen wird",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#14: Was ist eine Beschreibung eines Zwecks des Change-Mangement-Ansatzes?",
+        "a":"Die Rollen beschreiben, die für das Managen von Unsicherheiten bei der Lieferung des Zielzustands verantwortlich sind",
+        "b":"Beschreiben, wie die Auswirkung eines Änderungsantrags auf den vereinbarten Projektzeitplan bewertet wird",
+        "c":"Die Techniken beschreiben, mit denen überprüft wird, ob die Produkte den Erwartungen der Stakeholder entsprechen",
+        "d":"Beschreiben, wie das Business von der derzeitigen Arbeitsweise zum Zielzustand übergehen wird",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#15: Welches Prinzip wird von dem Element „Menschen“ angewandt, wenn der Grad der Zuversicht und des Vertrauens das Ausmaß der Delegation bestimmt?",
+        "a":"Steuern nach dem Ausnahmeprinzip",
+        "b":"Steuern über Managementphasen",
+        "c":"Produktorientierung",
+        "d":"Anpassen an den Projektkontext",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#16: Welches Managementprodukt bietet dem Projektteam AM BESTEN eine Grundlage für das laufende Management des Gesamtprojekts?",
+        "a":"Projektstatusbericht",
+        "b":"Projektplan",
+        "c":"Projektleitdokumentation",
+        "d":"Business Case",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#17: Wozu führen die wünschenswerten Ergebnisse direkt?",
+        "a":"Zur Erzielung der Business-Ziele",
+        "b":"Zur Lieferung von Ergebnissen nach Qualitätsspezifikationen, um die Business-Ziele zu erreichen",
+        "c":"Zu messbaren Verbesserungen, die im Business Case definiert sind",
+        "d":"Zu einer Reduzierung der im Business Case definierten Kosten für geschäftliche Veränderungen",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#18: Was sollte die Sicherheit bereitstellen, dass es eine solide Rechtfertigung für die Durchführung eines Projekts gibt?",
+        "a":"Projektkurzbeschreibung",
+        "b":"Business Case",
+        "c":"Nutzenmanagement-Ansatz",
+        "d":"Projektplan",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#19: Welcher Begriff ist definiert als der materielle oder immaterielle Liefergegenstand einer Aktivität?",
+        "a":"Output",
+        "b":"Ergebnis",
+        "c":"Nutzen",
+        "d":"Plan",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#20: Wie werden einige der sieben Aspekte der Projektleistung bei der Etablierung einer geschäftlichen Rechtfertigung verwendet?",
+        "a":"Durch die ausschließliche Konzentration auf die Kosten der Produktentwicklung im Business Case im Vergleich zum Nutzen",
+        "b":"Durch Einbeziehen negativer Nebeneffekte als wesentliche Risiken in die Investitionsbewertung und Abwägen gegen ihren Nutzen",
+        "c":"Durch Verständnis der Anforderungen an die Qualität der Produkte und deren Auswirkung auf Zeit-, Kosten- oder Nachhaltigkeitsziele",
+        "d":"Durch Sicherstellen, dass die Projektprodukte in vollem Umfang in Betrieb genommen werden, um den Nutzen für das Business zu liefern",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#21: In welchem Schritt der Business Case Management Technik sollte das Projektmandat überprüft werden?",
+        "a":"Entwickeln",
+        "b":"Prüfen",
+        "c":"Pflegen",
+        "d":"Bestätigen",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#22: Welches Prinzip wird in der Practice \"Organisieren\" angewendet, wenn der Projektauftraggeber sicherstellt, dass Entscheidungen auf sich ändernde Business-Anforderungen ausgerichtet sind?",
+        "a":"Produktorientierung",
+        "b":"Fortlaufende geschäftliche Rechtfertigung sicherstellen",
+        "c":"Lernen aus Erfahrung",
+        "d":"Steuern nach dem Ausnahmeprinzip",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#23: Ein neuer Abteilungsleiter möchte wissen, welche Mitarbeitenden an dem Projekt beteiligt sein werden.",
+        "a":"Struktur des Projektmanagement-Teams",
+        "b":"Rollenbeschreibungen",
+        "c":"Projekt-Logbuch",
+        "d":"Lenkungsausschuss",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#24: Ergänzen Sie den folgenden Satz: PRINCE2 verwendet den Begriff [?], für alle Personen, die ihre Zeit für das Projekt aufwenden müssen.",
+        "a":"Stakeholder",
+        "b":"Benutzer",
+        "c":"Projektteam",
+        "d":"Projektunterstützung",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#25: Welchen Beitrag sollte die beauftragende Partei laut der Leitlinie zu effektiver Organisation zu Beginn eines Projekts leisten?",
+        "a":"Identifizieren des Projektauftraggebers im Projektmandat",
+        "b":"Festlegen von Nachhaltigkeitszielen in den einzelnen Phasen",
+        "d":"Freigeben jeder auf Projektebene erfolgten Toleranzverletzungen E. Verantwortung für das gesamte Management des Projekts",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#26: In welchem Schritt der Technik für Organisationsdesign und -entwicklung sollte vereinbart werden, wer für das Festlegen persönlicher Ziele verantwortlich ist?",
+        "a":"Das organisatorische Ökosystem verstehen",
+        "b":"Das Projektökosystem entwickeln",
+        "c":"Das Projektökosystem designen",
+        "d":"Das Projekt in das organisatorische Ökosystem überführen",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#27: Wie können genehmigte Pläne zur Steuerung beitragen?",
+        "a":"Pläne sollten die Baseline bereitstellen, von der aus der Zeitplan entwickelt werden kann",
+        "b":"Pläne sollten benutzt werden, um Fortschritte zu überwachen und die Auswirkung von Issues und Risiken zu bewerten",
+        "c":"Pläne sollten aktualisiert werden, sobald eine Änderung des Projektumfangs identifiziert wird, um den überarbeiteten Umfang darzustellen",
+        "d":"Pläne für das Gesamtprojekt enthalten möglichst genaue Schätzungen",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#28: Der Teammanager muss prüfen, welche Produkte von seinem Team geliefert werden sollten. Welches Managementprodukt sollte der Teammanager überprüfen?",
+        "a":"Projektproduktbeschreibung",
+        "b":"Arbeitspaketbeschreibung",
+        "c":"Phasenplan",
+        "d":"Projektplan",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#29: Was wird als übergeordneter Plan definiert, der die wichtigsten Produkte des Projekts zeigt?",
+        "a":"Ein Projektplan",
+        "b":"Ein Phasenplan",
+        "c":"Ein Teamplan",
+        "d":"Ein Arbeitspaket",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#30: Wie sollte der Projektmanager den Planungshorizont berücksichtigen?",
+        "a":"Durch die Erstellung eines abgeschlossenen und detaillierten Projektplans auf der Basis genauer Schätzungen",
+        "b":"Durch die Erstellung eines Phasenplans für die nächste Phase auf der Basis genauerer Schätzungen",
+        "c":"Durch Identifizieren der wichtigsten Produkte und Aktivitäten im Projektplan",
+        "d":"Durch Identifizieren von Interdependenzen zwischen den wichtigsten Produkten im Phasenplan",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#31: In welchem Schritt der Planungstechnik sollte der Projektmanager die für die Lieferung des Plans erforderliche Ausrüstung identifizieren?",
+        "a":"Schätzungen durchführen",
+        "b":"Produkte definieren und analysieren",
+        "c":"Arbeitspakete organisieren",
+        "d":"Einen Zeitplan aufstellen",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#32: Was ist eine Beschreibung des Zwecks der Practice \"Qualität\"?",
+        "a":"Definieren, wie die Produkte des Projekts getestet werden sollen, um ihre Abnahme zu erreichen",
+        "b":"Definieren, wie der Projektauftraggeber entscheiden wird, ob der Nutzen die Kosten übersteigt",
+        "c":"Dem Projektteam ermöglichen, effektiv zu kommunizieren, indem definiert wird, wie die Produkte geliefert werden sollen",
+        "d":"Spezifikationsabweichungen erfassen und bewerten und Änderungen des zugestimmten Projektumfangs steuern",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#33: Der Projektmanager muss prüfen, wann ein Ergebnis zur Inspektion geplant ist. Welches Managementprodukt sollte der Projektmanager überprüfen?",
+        "a":"Qualitätsmanagement-Ansatz",
+        "b":"Produktbeschreibung",
+        "c":"Produktregister",
+        "d":"Qualitätsregister",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#34: Was beschreibt Qualitätsspezifikationen?",
+        "a":"Sie werden bei der Inspektion eines fertigen Produkts eingesetzt",
+        "b":"Sie werden bei der Abnahme des Projektprodukts angewendet",
+        "c":"Sie werden in der Projektproduktbeschreibung dokumentiert",
+        "d":"Sie werden im Qualitätsmanagement-Ansatz dokumentiert",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#35: Im Rahmen des Projekts wird ein Gebäude errichtet. Das Gebäude muss ökologische Ziele erfüllen. Welche Informationen sollten im Rahmen der Qualitätsplanung aufgezeichnet werden?",
+        "a":"Die Qualitätsaktivitäten zum Testen der Nachhaltigkeit des Produkts im Qualitätsregister",
+        "b":"Die Testergebnisse nach dem Testen der Anforderungen an die Umweltverträglichkeit des Produkts",
+        "c":"Die Anforderungen an die Umweltverträglichkeit wie die Spezifikationen in der Produktbeschreibung",
+        "d":"Die nachträglichen Projektrevisionen zur Messung der Nachhaltigkeitsziele im Nutzenmanagement-Ansatz",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#36: Der Projektmanager hat die Kriterien priorisiert, die das Projektprodukt erfüllen muss, bevor es vom Benutzer akzeptiert wird. In welchem Schritt der Technik des Qualitätsmanagements sollte diese Priorisierung zur Definition von Qualitätsspezifikationen benutzt werden?",
+        "a":"Sammeln von Benutzer-Inputs",
+        "b":"Abnehmen von Produkten",
+        "c":"Beschreibung des Qualitätsmanagement-Ansatzes",
+        "d":"Steuerung der Qualität",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#37: Warum sollte die Risiko Practice durchgeführt werden?",
+        "a":"Um den Lenkungsausschuss in die Lage zu versetzen, zu entscheiden, ob die Ergebnisse und der daraus resultierende Nutzen wahrscheinlich erreichbar sind",
+        "b":"Um den Projektmanager in die Lage zu versetzen, vorherzusagen, ob das Projekt rechtzeitig und innerhalb des Kostenrahmens geliefert wird",
+        "c":"Um die Modifikationen an den aktuell genehmigten Versionen der Projektprodukte zu identifizieren",
+        "d":"Um Chancen, die die Erzielung der Projektziele beeinträchtigen würden, zu identifizieren und zu managen",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#38: Das PRINCE2-Verfahren muss angepasst werden, um sicherzustellen, dass Ereignisse, die sich auf die Ziele auswirken können, gemanagt werden. In welchem Managementprodukt sollte dies dokumentiert werden?",
+        "a":"Risikomanagement-Ansatz",
+        "b":"Risikoregister",
+        "c":"Issuemanagement-Ansatz",
+        "d":"Issueregister",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#39: Welcher Begriff wird definiert als ein unsicheres Ereignis bzw. eine Gruppe von Ereignissen, die beim Eintreten Auswirkungen auf die Erzielung der Ziele haben wird?",
+        "a":"Risiko",
+        "b":"Spezifikationsabweichung",
+        "c":"Änderungsantrag",
+        "d":"Problem/Bedenken",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#40: Wie ermöglicht ein effektives Risikomanagement das Verständnis für die gesamte Risikobelastung eines Projekts?",
+        "a":"Durch die Positionierung der Risiken in Bezug auf die Risikotoleranzgrenze auf einem zusammenfassenden Risikoprofil",
+        "b":"Durch die Identifizierung verschiedener Arten von Nachhaltigkeitsrisiken",
+        "c":"Durch die Identifizierung, Bewertung und Planung von Antworten für jedes Risiko",
+        "d":"Durch Etablieren eines Risikobudgets, um Managementantworten auf Risiken zu finanzieren",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#41: Der Projektmanager muss die Projektkurzbeschreibung überprüfen, um zu entscheiden, wer für jeden Schritt in der Risikomanagement-Technik verantwortlich ist. In welchem Schritt der Risikomanagement-Technik sollte dies geschehen?",
+        "a":"Identifizieren - Kontext und Ziele definieren",
+        "b":"Identifizieren - Bedrohungen und Chancen identifizieren",
+        "c":"Bewerten - Risiken priorisieren",
+        "d":"Plan",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#42: Der Benutzervertreter hat Bedenken, dass der Umfang des Projekts geändert werden muss. Wann sollte der Benutzervertreter dieses Issue ansprechen?",
+        "a":"Sobald das Issue identifiziert worden ist",
+        "b":"Bei der nächsten planmäßigen formellen Projektbesprechung",
+        "c":"Bei der nächsten planmäßigen Besprechung der Mitglieder des Lenkungsausschusses zum Projekt",
+        "d":"Wenn das Ende der Phase sich nähert",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#43: Der Projektmanager möchte den Status aller Ereignisse überprüfen, die vom Projektmanagement-Team berücksichtigt werden. Welches Managementprodukt sollte der Projektmanager überprüfen?",
+        "a":"Issueregister",
+        "b":"Issuebericht",
+        "c":"Risikoregister",
+        "d":"Produktregister",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#44: Was ist die Definition eines Änderungsantrags?",
+        "a":"Ein Vorschlag zur Änderung einer Baseline.",
+        "b":"Etwas, das bereitgestellt werden sollte, aber nicht bereitgestellt wurde",
+        "c":"Ein unsicheres Ereignis, das sich auf die Ziele auswirken könnte",
+        "d":"Die aktuellen genehmigten Versionen der Projektprodukte, die der Änderungssteuerung unterliegen",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#45: Der Lenkungsausschuss hat die Änderungsinstanz an mehrere Rollen im Projektmanagement-Team delegiert. Welcher negative Effekt könnte sich daraus direkt ergeben?",
+        "a":"Die meisten Änderungen an den Produktbeschreibungen können von Teammitgliedern erzeugt werden",
+        "b":"Der tatsächliche und der freigegebene Status der Produkte, die im Produktregister aufgezeichnet sind, stimmen möglicherweise nicht überein",
+        "c":"Der Lenkungsausschuss trifft möglicherweise nur langsam Entscheidungen, was die Fortschritte bei der Lieferung verzögert",
+        "d":"Der Projektumfang wird möglicherweise weniger auf den Business Case ausgerichtet",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#46: Der Projektmanager muss die Auswirkungen eines Issue auf den Nutzen und die Kosten berücksichtigen. In welchem Schritt der Technik des Issuemanagements sollte dies geschehen?",
+        "a":"Bewerten von Issues",
+        "b":"Erfassen von Issues",
+        "c":"Entscheidung über Änderungen",
+        "d":"Implementieren von Änderungen",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#47: Welche Aussage beschreibt AM BESTEN, wo der Fortschritt überwacht werden sollte?",
+        "a":"An den Phasenübergängen am Ende der einzelnen Phasen",
+        "b":"Auf Projekt-, Phasen- und Arbeitspaketebene",
+        "c":"Auf Produktlieferungsebene",
+        "d":"Bei Projektabschluss, wenn die Kosten für das Projekt berechnet werden",
+        "solution":"b"
+    },
+    {
+        "question":"Kat2, F#48: Der Projektmanager muss den Lenkungsausschuss darüber informieren, welche genehmigten Produkte noch ausstehen, bevor der Lenkungsausschuss die weitere Arbeit genehmigt. In welchem Managementprodukt sollte der Projektmanager diese Information aufzeichnen?",
+        "a":"Teamstatusbericht",
+        "b":"Projektstatusbericht",
+        "c":"Phasenabschlussbericht",
+        "d":"Projektabschlussbericht",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#49: Ergänzen Sie den folgenden Satz: Die Business-Ebene außerhalb des Projektteams legt die Anforderungen und [?]grenzen für das Projekt fest.",
+        "a":"Toleranz",
+        "b":"Issue",
+        "c":"Prognose",
+        "d":"Risiko",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#50: Im Projektmandat wurde ein fester Termin für die Lieferung des Projekts festgelegt. Es wurde nun zugestimmt, dass das Projekt um bis zu 4 Wochen verzögert werden kann. Welche Ebene des Managements sollte dem zustimmen?",
+        "a":"Lenkungsausschuss",
+        "b":"Projektmanager",
+        "c":"Business-Ebene",
+        "d":"Teammanager",
+        "solution":"c"
+    },
+    {
+        "question":"Kat2, F#51: Welche Maßnahme kann ein Projektmanager ergreifen, wenn ein Issue zu einer Überschreitung einer der Phasentoleranzen führt?",
+        "a":"Empfehlung aus dem Ausnahmebericht akzeptieren oder ablehnen",
+        "b":"Issue innerhalb anderer Projekttoleranzen lösen und in den nächsten Projektstatusbericht aufnehmen",
+        "c":"An die Business-Ebene eskalieren, um Ratschläge und Orientierung zur Implementierung des Ausnahmeberichts zu erhalten",
+        "d":"Issue mithilfe anderer Phasentoleranzen lösen und in den nächsten Projektstatusbericht aufnehmen",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#52: Was ist eine Beschreibung des Zwecks des Prozesses „Initiieren eines Projekts“?",
+        "a":"Definieren, wie lange es dauert, bis das Projekt liefert, was erforderlich ist, um die Abnahme zu erreichen",
+        "b":"Steuerung zwischen dem Projektmanager und den Teammanagern zu ermöglichen",
+        "c":"Auf hohem Niveau überprüfen, ob das Projekt einen Mehrwert für eine Organisation darstellt",
+        "d":"Bewerten, ob ein Projekt rechtzeitig geliefert wurde und ob es nichts mehr beizutragen hat",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#53: Der Teammanager muss zustimmen, welche Produkte erstellt werden müssen und wann. In welchem Prozess sollte dem zugestimmt werden?",
+        "a":"Managen der Produktlieferung",
+        "b":"Lenken eines Projekts",
+        "c":"Managen eines Phasenübergangs",
+        "d":"Steuern einer Phase",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#54: In welchem Prozess wird bewertet, ob alle in der aktuellen Projektleitdokumentation angegebenen Ziele erreicht worden sind?",
+        "a":"Abschließen eines Projekts",
+        "b":"Steuern einer Phase",
+        "c":"Managen der Produktlieferung",
+        "d":"Managen eines Phasenübergangs",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#55: Was sind ZWEI Ziele des Prozesses „Vorbereiten eines Projekts“? 1. Den Umfang des Projekts definieren, damit es initiiert werden kann 2. Freigabe der Arbeiten zur Lieferung des Projektprodukts 3. Verstehen, welche Qualitätstechniken in dem Projekt angewendet werden 4. Bewerten der alternativen Möglichkeiten zur Lieferung des Projekts",
+        "a":"1 und 2",
+        "b":"2 und 3",
+        "c":"3 und 4",
+        "d":"1 und 4",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#56: Welche ZWEI Aktivitäten unterstützt der Prozess „Lenken eines Projekts“? 1. Befugnis erteilen, das Projektteam nach Abschluss der Arbeiten aufzulösen 2. Pläne zum Messen des Nutzens nach Abschluss eines Projekts überprüfen 3. Prüfen, ob die Produkte nach Abschluss des Projekts durch den Betrieb unterstützt werden können 4. Verifizieren, ob die Anforderungen der Benutzer erfüllt wurden",
+        "a":"1 und 2",
+        "b":"2 und 3",
+        "c":"3 und 4",
+        "d":"1 und 4",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#57: Was sind ZWEI Ziele des Prozesses „Steuern einer Phase“? 1. Auf Risiken und Issues reagieren, sobald sie auftauchen 2. Die detaillierten Aktivitäten für die nächste Phase des Projekts planen 3. Die Steuerung für das Projekt definieren 4. Die geschäftliche Rechtfertigung kontinuierlich bewerten",
+        "a":"1 und 2",
+        "b":"2 und 3",
+        "c":"3 und 4",
+        "d":"1 und 4",
+        "solution":"d"
+    },
+    {
+        "question":"Kat2, F#58: Wann sollte der Projektmanager während des Prozesses \"Managen eines Phasenübergangs\" den Rest der Phase neu planen?",
+        "a":"Nach der Berichterstattung an den Lenkungsausschuss, dass eine Phasentoleranz wahrscheinlich überschritten wird",
+        "b":"Nach der Beratung durch den Lenkungsausschuss als Antwort auf einen Projektstatusbericht in der Phase",
+        "c":"Nach dem Antrag an den Lenkungsausschuss, einen Ausnahmeplan für die Phase zu genehmigen",
+        "d":"Nach dem Antrag an den Lenkungsausschuss, eine Änderung des Projektteams zu genehmigen, das die Produkte der Phase liefert",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#59: Was beschreibt, wie der Prozess „Steuern einer Phase“ genutzt werden kann?",
+        "a":"Er könnte vom Projektmanager zum Überwachen der Initiierungsphase eines großen Projekts verwendet werden",
+        "b":"Er könnte entfallen, wenn die Teammanager-Rolle vom Projektmanager wahrgenommen wird",
+        "c":"Er könnte gegebenenfalls mit dem Prozess \"Managen eines Phasenübergangs\" kombiniert werden",
+        "d":"Er könnte entfallen, wenn die Teammanager dem Business angehören",
+        "solution":"a"
+    },
+    {
+        "question":"Kat2, F#60: Was beschreibt ein Projektmerkmal, das die Notwendigkeit des Prozesses \"Abschließen eines Projekts\" begründet?",
+        "a":"Ein Projekt sollte die wünschenswerte Änderung an das Business as Usual (BAU) übergeben",
+        "b":"Ein Projekt wird mit einem neuen Projektteam geliefert",
+        "c":"Ein Projekt nutzt Ressourcen aus verschiedenen Abteilungen",
+        "d":"Ein Projekt ist mit einem höheren Maß an Unsicherheit behaftet",
+        "solution":"a"
+    }
+ ]
