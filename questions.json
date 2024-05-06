@@ -112,7 +112,7 @@
        "solution":"c"
     },
     {
-       "question":"Kat1, F#15: Ein Projekt veranstaltet einen Workshop, in dem die Mitglieder des Projektteams ihre Erfahrungen mit neuen Arbeitsweisen austauschen.",
+       "question":"Kat1, F#15: Ein Projekt veranstaltet einen Workshop, in dem die Mitglieder des Projektteams ihre Erfahrungen mit neuen Arbeitsweisen austauschen. Welches Prinzip wird bei dem Element „Menschen“ angewandt?",
        "a":"Lernen aus Erfahrung",
        "b":"Steuern nach dem Ausnahmeprinzip",
        "c":"Definierte Rollen, Verantwortlichkeiten und Beziehungen",
@@ -200,7 +200,7 @@
        "solution":"b"
     },
     {
-       "question":"Kat1, F#26: Ein neues Teammitglied ist gerade zum Projektteam gestoßen und wird einen Besuch vor Ort durchführen.",
+       "question":"Kat1, F#26: Ein neues Teammitglied ist gerade zum Projektteam gestoßen und wird einen Besuch vor Ort durchführen. In welchem Schritt der Technik des Organisationsdesigns und der Entwicklung sollte dies geschehen?",
        "a":"Das Projektökosystem entwickeln",
        "b":"Das organisatorische Ökosystem verstehen",
        "c":"Das Projektökosystem designen",
@@ -216,7 +216,7 @@
        "solution":"a"
     },
     {
-       "question":"Kat1, F#28: Die Geschäftsstrategie hat sich geändert, sodass der Umfang des Projekts über die von der Business-Ebene zugestimmten Toleranzen hinaus erweitert werden muss.",
+       "question":"Kat1, F#28: Die Geschäftsstrategie hat sich geändert, sodass der Umfang des Projekts über die von der Business-Ebene zugestimmten Toleranzen hinaus erweitert werden muss. Welcher Plan sollte erstellt werden, um diese Änderung zu berücksichtigen?",
        "a":"Projektplan",
        "b":"Phasenplan",
        "c":"Teamplan",
@@ -264,7 +264,7 @@
        "solution":"a"
     },
     {
-       "question":"Kat1, F#34: Durch welche Aussage wird Projektsicherung und nicht Qualitätssicherung beschrieben? Wie sollte das gemanagt werden?",
+       "question":"Kat1, F#34: Durch welche Aussage wird Projektsicherung und nicht Qualitätssicherung beschrieben?",
        "a":"Sie ist unabhängig vom Projektmanager, allerdings nicht vom Projekt.",
        "b":"Sie überwacht die Maßnahmen zur Qualitätssteuerung des Projekts, mit denen die Produkte des Projekts bewertet werden",
        "c":"Sie ist unabhängig vom Projektteam und kann Teil des Qualitätsmanagement-Systems des Benutzers sein",
@@ -272,7 +272,7 @@
        "solution":"a"
     },
     {
-       "question":"Kat1, F#35: Eine neue Anforderung wird beim Erstellen eines untergeordneten Plans identifiziert.",
+       "question":"Kat1, F#35: Eine neue Anforderung wird beim Erstellen eines untergeordneten Plans identifiziert. Wie sollte das gemanagt werden?",
        "a":"Durch die Erstellung neuer Produktbeschreibungen",
        "b":"Durch Verwendung des Issuemanagement-Ansatzes",
        "c":"Durch Aktualisieren der Projektproduktbeschreibung",
@@ -320,7 +320,7 @@
        "solution":"a"
     },
     {
-       "question":"Kat1, F#41: Der Projektmanager muss die Projektumgebung verstehen und definieren, wie er das Risiko im Projekt managen wird.",
+       "question":"Kat1, F#41: Der Projektmanager muss die Projektumgebung verstehen und definieren, wie er das Risiko im Projekt managen wird. In welchem Schritt der Risikomanagement-Technik sollte dies definiert werden?",
        "a":"Identifizieren",
        "b":"Bewerten",
        "c":"Planen",
@@ -336,7 +336,7 @@
        "solution":"b"
     },
     {
-       "question":"Kat1, F#43: Die Projektunterstützung muss verstehen, wie man Änderungen an genehmigten Versionen der Projektprodukte vornimmt.",
+       "question":"Kat1, F#43: Die Projektunterstützung muss verstehen, wie man Änderungen an genehmigten Versionen der Projektprodukte vornimmt. Welches Managementprodukt sollte die Projektunterstützung überprüfen?",
        "a":"Issuemanagement-Ansatz",
        "b":"Risikomanagement-Ansatz",
        "c":"Nutzenmanagement-Ansatz",
@@ -520,7 +520,7 @@
         "solution":"a"
     },
     {
-        "question":"Kat2, F#6: Der Projektmanager hat mit dem Teammanager vereinbart, dass ein Arbeitspaket bis zu 1 Woche später als im Teamplan vorgesehen geliefert werden kann.",
+        "question":"Kat2, F#6: Der Projektmanager hat mit dem Teammanager vereinbart, dass ein Arbeitspaket bis zu 1 Woche später als im Teamplan vorgesehen geliefert werden kann. Welches Prinzip wendet der Projektmanager an?",
         "a":"Lernen aus Erfahrung",
         "b":"Definierte Rollen, Verantwortlichkeiten und Beziehungen",
         "c":"Steuern nach dem Ausnahmeprinzip",
@@ -656,7 +656,7 @@
         "solution":"b"
     },
     {
-        "question":"Kat2, F#23: Ein neuer Abteilungsleiter möchte wissen, welche Mitarbeitenden an dem Projekt beteiligt sein werden.",
+        "question":"Kat2, F#23: Ein neuer Abteilungsleiter möchte wissen, welche Mitarbeitenden an dem Projekt beteiligt sein werden. Welches Managementprodukt sollte der Abteilungsleiter überprüfen?",
         "a":"Struktur des Projektmanagement-Teams",
         "b":"Rollenbeschreibungen",
         "c":"Projekt-Logbuch",
