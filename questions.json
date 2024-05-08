@@ -432,7 +432,7 @@
        "solution":"a"
     },
     {
-       "question":"Kat1, F#55: Was sind ZWEI Ziele des Prozesses „Steuern einer Phase“? 1. Sicherstellen, dass es keine unkontrollierten Änderungen an den mit dem Lenkungsausschuss vereinbarten Produkten gibt 2. Sicherstellen, dass gegenüber dem Lenkungsausschuss gewährleistet ist, dass alle Produkte im aktuellen Phasenplan abgeschlossen wurden  3. Sicherstellen, dass die Projektleitdokumentation mit allen für die nächste Phase erforderlichen Qualitätsänderungen aktualisiert wird  ",
+       "question":"Kat1, F#55: Was sind ZWEI Ziele des Prozesses „Steuern einer Phase“? 1. Sicherstellen, dass es keine unkontrollierten Änderungen an den mit dem Lenkungsausschuss vereinbarten Produkten gibt 2. Sicherstellen, dass gegenüber dem Lenkungsausschuss gewährleistet ist, dass alle Produkte im aktuellen Phasenplan abgeschlossen wurden  3. Sicherstellen, dass die Projektleitdokumentation mit allen für die nächste Phase erforderlichen Qualitätsänderungen aktualisiert wird 4. Sicherstellen, dass die in der Phase gelieferten Produkte die vereinbarten Qualitätskriterien erfüllen",
        "a":"1 und 2",
        "b":"2 und 3",
        "c":"3 und 4",
